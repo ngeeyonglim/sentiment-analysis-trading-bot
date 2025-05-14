@@ -183,7 +183,7 @@ hashtags = ['BTC', 'bitcoin', 'crypto']
 all_collected_tweets = []
 seen_tweet_texts_globally = set()
 MAX_CONSECUTIVE_SCROLLS_WITHOUT_NEW_TWEETS = 3 # Stop after 3*N scrolls if no new tweets
-TWEETS_TO_SCRAPE_PER_HASHTAG = 100 # Optional: limit per hashtag
+TWEETS_TO_SCRAPE_PER_HASHTAG = 200 # Optional: limit per hashtag
 
 for hashtag_query in hashtags:
     print(f"\n--- Processing hashtag: {hashtag_query} ---")
@@ -213,7 +213,6 @@ for hashtag_query in hashtags:
 
         actions = ActionChains(driver)
         consecutive_scrolls_without_new = 0
-        TWEETS_TO_SCRAPE_PER_HASHTAG = 10
         
         # Keep track of tweets seen in this specific hashtag search to avoid reprocessing during scrolls
         tweets_seen_this_hashtag_search = set()
@@ -240,8 +239,15 @@ for hashtag_query in hashtags:
             for tweet_element in tweet_elements_found:
                 try:
                     tweet_text = tweet_element.text.strip()
+
+                    tweet_datetime_xpath = ".//time[@datetime]"
+                    
+                    tweet_datetime_element = tweet_element.find_element(By.XPATH, tweet_datetime_xpath)
+                    tweet_datetime = tweet_datetime_element.get_attribute("datetime")
+
+
                     if tweet_text and tweet_text not in seen_tweet_texts_globally and tweet_text not in tweets_seen_this_hashtag_search:
-                        all_collected_tweets.append(tweet_text)
+                        df = pd.concat([df, pd.DataFrame([{"Tweets": tweet_text, "Datetime": tweet_datetime, "Hashtag": hashtag_query}])], ignore_index=True)
                         seen_tweet_texts_globally.add(tweet_text)
                         tweets_seen_this_hashtag_search.add(tweet_text) # Add to set for this hashtag's scroll session
                         print(f"  New unique tweet: {tweet_text[:80]}...")
@@ -249,6 +255,8 @@ for hashtag_query in hashtags:
                 except StaleElementReferenceException:
                     print("StaleElementReferenceException caught while reading tweet text. Will re-fetch on next scroll.")
                     break # Break from processing this batch of elements, will scroll and re-fetch
+                except NoSuchElementException:
+                    print("NoSuchElementException caught while reading tweet datetime. Skipping this tweet element.")
                 except Exception as e_inner:
                     print(f"Error processing a tweet element: {e_inner}")
             
@@ -266,7 +274,7 @@ for hashtag_query in hashtags:
             
             # Safety break if too many tweets are collected for one hashtag (e.g., > 500)
             if len(tweets_seen_this_hashtag_search) > TWEETS_TO_SCRAPE_PER_HASHTAG:
-                print(f"Collected over 500 tweets for '{hashtag_query}'. Moving to next hashtag.")
+                print(f"Collected over {TWEETS_TO_SCRAPE_PER_HASHTAG} tweets for '{hashtag_query}'. Moving to next hashtag.")
                 break
 
             
