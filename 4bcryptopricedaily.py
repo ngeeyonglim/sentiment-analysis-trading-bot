@@ -36,12 +36,9 @@ def get_crypto_prices_x_days(x=365, currency='USD'):
         df['high'] = df['close'].rolling(2).max()  # High is the max of the last 2 days
         df['low'] = df['close'].rolling(2).min()  # Low is the min of the last 2 days
         
-        # Calculate daily returns
-        df['returns'] = df['close'].diff()  # Today's close - Yesterday's close
-        
         # Reorder columns for clarity
-        df = df[['timestamp', 'open', 'high', 'low', 'close', 'returns', 'volume', 'market_cap']]
-        df.columns = ['timestamp', 'open', 'high', 'low', 'close', 'returns', 'volume', 'market_cap']
+        df = df[['timestamp', 'open', 'high', 'low', 'close', 'volume',]]
+        df.columns = ['timestamp', 'open', 'high', 'low', 'close', 'volume']
         
         return df
     else:
@@ -49,27 +46,8 @@ def get_crypto_prices_x_days(x=365, currency='USD'):
 
 df = get_crypto_prices_x_days(365, 'USD')
 
-# Calculate rolling mean and standard deviation for volatility
-df['middle_band'] = df['close'].rolling(window=30).mean()  # 30-day rolling mean
-df['rolling_std'] = df['close'].rolling(window=30).std()  # 30-day rolling standard deviation
-
-# Calculate Bollinger Bands
-df['upper_band'] = df['middle_band'] + (df['rolling_std'] * 2)  # Upper Bollinger Band
-df['lower_band'] = df['middle_band'] - (df['rolling_std'] * 2)  # Lower Bollinger Band
-
-# Price position
-df['price_position'] = (df['close'] - df['middle_band']) / (df['upper_band'] - df['middle_band'])  # Normalized price position
-
-df['band_width'] = df['upper_band'] - df['lower_band'] 
-
-df['volume_to_market_cap'] = df['volume'] / df['market_cap']  
-
-df['momentum'] = df['close'].pct_change(periods=7)  # 14-day momentum
-
-
-
 # save the DataFrame to a CSV file
-output_file = 'crypto_prices.csv'
+output_file = 'crypto_prices_recent.csv'
 df.to_csv(output_file, index=False)
 print(f"Cryptocurrency prices saved to {output_file}.")
 

@@ -1,2 +1,3 @@
 # .gitignore
 credentials.env
+btcusd_1-min_data.csv
