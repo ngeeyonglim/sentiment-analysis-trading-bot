@@ -28,29 +28,23 @@ options.add_argument("--disable-blink-features=AutomationControlled")
 options.add_argument("window_size=1280,800")
 options.add_argument("--disable-popup-blocking")
 options.add_argument("--disable-save-password-bubble")
-# options.add_argument("--headless") # Optional: for running without a visible browser
-# options.add_argument("--lang=en-US") # Optional: try to set browser language
 
-def save_to_excel(data_list, filename):
-    # Ensure data_list is a list of single tweet texts for a single column DataFrame
-    data_to_save = [{"Tweets": tweet} for tweet in data_list]
-    df_new = pd.DataFrame(data_to_save)
 
+def save_to_excel_df(dataframe_to_save, filename): 
     if os.path.exists(filename):
         try:
             df_existing = pd.read_excel(filename, engine='openpyxl')
-            df_combined = pd.concat([df_existing, df_new], ignore_index=True)
-            # Optional: Remove duplicates from the combined data based on the "Tweets" column
-            df_combined.drop_duplicates(subset=["Tweets"], keep='first', inplace=True)
+            df_combined = pd.concat([df_existing, dataframe_to_save], ignore_index=True)
+            df_combined.drop_duplicates(subset=["Tweets", "Datetime"], keep='first', inplace=True)
         except Exception as e:
             print(f"Error reading existing Excel file '{filename}': {e}. Overwriting with new data.")
-            df_combined = df_new
+            df_combined = dataframe_to_save.drop_duplicates(subset=["Tweets", "Datetime"], keep='first')
     else:
-        df_combined = df_new
+        df_combined = dataframe_to_save.drop_duplicates(subset=["Tweets", "Datetime"], keep='first')
 
     try:
         df_combined.to_excel(filename, index=False, engine='openpyxl')
-        print(f"Successfully saved/updated {len(df_combined)} unique tweets to {filename}")
+        print(f"Successfully saved/updated {len(df_combined)} unique tweet entries to {filename}")
     except Exception as e:
         print(f"Error writing to Excel file '{filename}': {e}")
 
@@ -180,7 +174,7 @@ except Exception as e:
 
 # --- Scraping Logic ---
 hashtags = ['BTC', 'bitcoin', 'crypto']
-all_collected_tweets = []
+all_collected_data = []
 seen_tweet_texts_globally = set()
 MAX_CONSECUTIVE_SCROLLS_WITHOUT_NEW_TWEETS = 3 # Stop after 3*N scrolls if no new tweets
 TWEETS_TO_SCRAPE_PER_HASHTAG = 200 # Optional: limit per hashtag
@@ -213,11 +207,16 @@ for hashtag_query in hashtags:
 
         actions = ActionChains(driver)
         consecutive_scrolls_without_new = 0
+        tweets_scraped_for_this_hashtag = 0
         
         # Keep track of tweets seen in this specific hashtag search to avoid reprocessing during scrolls
         tweets_seen_this_hashtag_search = set()
 
         while True:
+            if tweets_scraped_for_this_hashtag >= TWEETS_TO_SCRAPE_PER_HASHTAG:
+                print(f"Reached limit of {TWEETS_TO_SCRAPE_PER_HASHTAG} tweets for '{hashtag_query}'.")
+                break
+
             new_tweets_found_this_batch = 0
             # Scroll a few times
             scroll_attempts = 5
@@ -227,27 +226,36 @@ for hashtag_query in hashtags:
                 time.sleep(1.5) # Shorter sleep, adjust if content loads slower
 
             # Fetch tweet data
-            # This XPATH targets the text content of tweets.
-            tweet_text_elements_xpath = "//article[@data-testid='tweet']//div[@data-testid='tweetText']"
+            tweet_articles_xpath = "//article[@data-testid='tweet']"
+            
 
-            tweet_elements_found = driver.find_elements(By.XPATH, tweet_text_elements_xpath)
-            print(f"Found {len(tweet_elements_found)} potential tweet text elements on page.")
+            tweet_article_found = driver.find_elements(By.XPATH, tweet_articles_xpath)
+            print(f"Found {len(tweet_article_found)} potential tweet text elements on page.")
 
-            if not tweet_elements_found and consecutive_scrolls_without_new == 0: # First check after scrolls
-                 print("No tweet elements found with the current XPATH. Check XPATH or if search yielded results.")
+            if not tweet_article_found and consecutive_scrolls_without_new == 0: # First check after scrolls
+                 print("No tweet article found with the current XPATH. Check XPATH or if search yielded results.")
 
-            for tweet_element in tweet_elements_found:
+            for article_element in tweet_article_found:
+
                 try:
-                    tweet_text = tweet_element.text.strip()
+                    tweet_text_relative_xpath = ".//div[@data-testid='tweetText']"
+                    tweet_text_element = article_element.find_element(By.XPATH, tweet_text_relative_xpath)
+                    tweet_text = tweet_text_element.text.strip()
 
-                    tweet_datetime_xpath = ".//time[@datetime]"
-                    
-                    tweet_datetime_element = tweet_element.find_element(By.XPATH, tweet_datetime_xpath)
+                    tweet_datetime_relative_xpath = ".//time[@datetime]"
+                    tweet_datetime_element = article_element.find_element(By.XPATH, tweet_datetime_relative_xpath)
                     tweet_datetime = tweet_datetime_element.get_attribute("datetime")
 
 
                     if tweet_text and tweet_text not in seen_tweet_texts_globally and tweet_text not in tweets_seen_this_hashtag_search:
-                        df = pd.concat([df, pd.DataFrame([{"Tweets": tweet_text, "Datetime": tweet_datetime, "Hashtag": hashtag_query}])], ignore_index=True)
+                        tweet_data = {
+                        "Tweets": tweet_text,
+                        "Datetime": tweet_datetime,
+                        "Hashtag": hashtag_query
+                        }
+                        all_collected_data.append(tweet_data)
+                        seen_tweet_texts_globally.add(tweet_text) # Add to global set to avoid duplicates across hashtags
+                        tweets_scraped_for_this_hashtag += 1
                         seen_tweet_texts_globally.add(tweet_text)
                         tweets_seen_this_hashtag_search.add(tweet_text) # Add to set for this hashtag's scroll session
                         print(f"  New unique tweet: {tweet_text[:80]}...")
@@ -262,8 +270,8 @@ for hashtag_query in hashtags:
             
             if new_tweets_found_this_batch > 0:
                 consecutive_scrolls_without_new = 0 # Reset counter
-                # Save intermediate results
-                save_to_excel(list(all_collected_tweets), "tweets.xlsx")
+                temp_df = pd.DataFrame(all_collected_data)
+                save_to_excel_df(temp_df, "_1_tweets.xlsx")
             else:
                 consecutive_scrolls_without_new += 1
                 print(f"No new unique tweets found in this scroll batch. Consecutive count: {consecutive_scrolls_without_new}")
@@ -289,14 +297,9 @@ for hashtag_query in hashtags:
         print(f"An unexpected error occurred for hashtag '{hashtag_query}': {e_outer}")
         print("Current URL:", driver.current_url)
 
-# Final save after all hashtags are processed
-if all_collected_tweets:
-    save_to_excel(list(all_collected_tweets), "tweets.xlsx")
 
 print("\n--- Scraping Finished ---")
-print(f"Total unique tweets collected from all hashtags: {len(all_collected_tweets)}")
-# for text in all_collected_tweets:
-#     print(text[:100] + "...") # Print snippets
 
-# driver.quit() # Uncomment to close the browser automatically when done
+
+driver.quit() # Uncomment to close the browser automatically when done
 print("Script finished. Browser window remains open if detach option is active.")

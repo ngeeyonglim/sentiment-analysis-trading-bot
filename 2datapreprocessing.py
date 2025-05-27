@@ -16,6 +16,6 @@ if os.path.exists('processed_tweets.xlsx'):
     os.remove('processed_tweets.xlsx')
 
 # Save the processed DataFrame to a new csv file
-df.to_csv('processed_tweets.csv', index=False)
+df.to_csv('_2_processed_tweets.csv', index=False)
 
 

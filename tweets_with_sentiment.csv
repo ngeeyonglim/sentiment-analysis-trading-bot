@@ -1,9 +1,9 @@
-Tweets,Datetime,Hashtag
+Tweets,Datetime,Hashtag,neg,pos,neu,compound
 "big breaking
 
 fed will drop rates by 1% in next fomc meeting 
 
-let's send higher",2025-05-12T11:34:56.000Z,BTC
+let's send higher",2025-05-12T11:34:56.000Z,BTC,0.13,0.0,0.87,-0.2732
 "i'm officially a $btc billionaire! 
 
 as i promised, i want to change someone’s life—giving away 1 #bitcoin (~$103,000) to one lucky winner by tomorrow!
@@ -12,7 +12,7 @@ like, rt, follow
 @randomcryptopal
  and comment '#bitcoin' to enter.
 
-winner announced in 48h!",2025-05-13T14:03:01.000Z,BTC
+winner announced in 48h!",2025-05-13T14:03:01.000Z,BTC,0.0,0.362,0.638,0.9483
 "i'm officially a $btc billionaire! 
 
 as i promised, i want to change someone’s life—giving away 1 #bitcoin (~$103,000) to one lucky winner by tomorrow!
@@ -21,23 +21,23 @@ like, rt, follow
 @crypto0637
  and comment 'done' to enter.
 
-winner announced in 48h!",2025-05-13T19:57:16.000Z,BTC
+winner announced in 48h!",2025-05-13T19:57:16.000Z,BTC,0.0,0.362,0.638,0.9483
 "#moodeng is still on the rise while the whole market takes a pause.
 $0.60 coming soon.
 
-drop a like if you still hold #moodeng",2025-05-13T09:36:39.000Z,BTC
+drop a like if you still hold #moodeng",2025-05-13T09:36:39.000Z,BTC,0.079,0.094,0.827,0.1027
 "if the cavs cover -8.5 we will giveaway $1000 via #btc ($250 to 4 people) 
 
 must retweet, like, and follow to be eligible 
 
-lets go cavs!!",2025-05-13T22:53:34.000Z,BTC
-$eth / $btc: most important chart to look at. we're just getting started.,2025-05-13T11:14:39.000Z,BTC
-$brett today;,2025-05-14T06:21:43.000Z,BTC
+lets go cavs!!",2025-05-13T22:53:34.000Z,BTC,0.0,0.11,0.89,0.4738
+$eth / $btc: most important chart to look at. we're just getting started.,2025-05-13T11:14:39.000Z,BTC,0.0,0.149,0.851,0.2716
+$brett today;,2025-05-14T06:21:43.000Z,BTC,0.0,0.0,1.0,0.0
 "2 #bitcoin 
 
 a person who retweets, follows me will receive 2 $btc ( $208.000 ) (yes, for real)
 
-retweet my pinned post",2025-05-12T06:45:26.000Z,BTC
+retweet my pinned post",2025-05-12T06:45:26.000Z,BTC,0.0,0.114,0.886,0.4019
 "i promised, if #bitcoin pumps above $100,000 !
 we will give $10,000 $btc to 5 people
 
@@ -48,69 +48,69 @@ rules: like, retweet, follow me
 
 •⁠ ⁠if you’re not following, you will be disqualified.
 
-proof will be posted in 24 hours",2025-05-12T15:26:18.000Z,BTC
+proof will be posted in 24 hours",2025-05-12T15:26:18.000Z,BTC,0.048,0.18,0.772,0.7698
 "yala testnet? completed it.
 
 - 1.58m testnet btc staked
 - $61.69b $yu minted
 - 3.68m users
 
-who’s ready for the next stage?",2025-05-12T16:00:10.000Z,BTC
-bitcoin stuffed toy floating in space above earth,2025-05-13T14:50:06.000Z,BTC
+who’s ready for the next stage?",2025-05-12T16:00:10.000Z,BTC,0.0,0.12,0.88,0.4329
+bitcoin stuffed toy floating in space above earth,2025-05-13T14:50:06.000Z,BTC,0.0,0.0,1.0,0.0
 "$dot 
 
 this is one of my favorites plays. uptrend has only just begun. 
 
-nfa.",2025-05-13T14:51:05.000Z,BTC
+nfa.",2025-05-13T14:51:05.000Z,BTC,0.0,0.286,0.714,0.5859
 "simple and obvious.
-i'm not even going to draw the lines.",2025-05-13T19:51:03.000Z,BTC
+i'm not even going to draw the lines.",2025-05-13T19:51:03.000Z,BTC,0.0,0.0,1.0,0.0
 "𝐘𝐨𝐮𝐫 𝐁𝐢𝐭𝐜𝐨𝐢𝐧 𝐝𝐨𝐞𝐬𝐧’𝐭 𝐡𝐚𝐯𝐞 𝐭𝐨 𝐬𝐢𝐭 𝐢𝐝𝐥𝐞 𝐚𝐧𝐲𝐦𝐨𝐫𝐞.
 
 with 
 @maplefinance
  and the power of the core blockchain, you can now earn live yield on your btc securely and transparently.
 
-in april alone, over 1,600 btc were staked, generating an average",2025-05-14T06:32:22.000Z,BTC
+in april alone, over 1,600 btc were staked, generating an average",2025-05-14T06:32:22.000Z,BTC,0.047,0.057,0.896,0.1027
 "it’s a new day!
 
-yes, it is!",2025-05-13T23:01:56.000Z,BTC
+yes, it is!",2025-05-13T23:01:56.000Z,BTC,0.0,0.354,0.646,0.508
 "#bitcoin finally pump to  $104,000 !
 
 as promised,
 i want to change someone's life and send 1 $btc (~$104,000) to one person by tomorrow. 
 
 just like, retweet and comment 'done'. 
-random winner in 15 hrs",2025-05-13T10:15:53.000Z,BTC
+random winner in 15 hrs",2025-05-13T10:15:53.000Z,BTC,0.0,0.251,0.749,0.8553
 "real bullrun and supercycle is on!
 
 leave your bear market ptsd behind, have faith and not fear, a fantastic time is ahead which will set many financially free.
 
 so don`t fk it up, trust, believe, sell your losers and diamond hand your winners!
 
-$s $jasmy $btc $gork $berry",2025-05-14T01:50:00.000Z,BTC
+$s $jasmy $btc $gork $berry",2025-05-14T01:50:00.000Z,BTC,0.113,0.319,0.569,0.9299
 "i will send $1,000 to a random follower who comments below.
 
 prizes can be in $btc $sol $kas $bnb  $eth or $sol
 
-also, free $100 regardless down below",2025-05-13T18:57:56.000Z,BTC
-btc just popped my focus—what's on your price alert list?,2025-05-12T15:20:00.000Z,BTC
+also, free $100 regardless down below",2025-05-13T18:57:56.000Z,BTC,0.0,0.195,0.805,0.743
+btc just popped my focus—what's on your price alert list?,2025-05-12T15:20:00.000Z,BTC,0.0,0.196,0.804,0.296
 "who bought #bitcoin down here?!
 
 i must follow ya!!  
 
-(nov 3rd 2023)",2025-05-14T00:54:03.000Z,BTC
+(nov 3rd 2023)",2025-05-14T00:54:03.000Z,BTC,0.0,0.0,1.0,0.0
 "gm to all 
 
-it’s wednesday!",2025-05-14T06:24:25.000Z,BTC
+it’s wednesday!",2025-05-14T06:24:25.000Z,BTC,0.0,0.0,1.0,0.0
 "$105,000 bitcoin 
-...and everybody out there living their lives.",2025-05-12T07:17:33.000Z,BTC
-pov: you held 1 million $dog going into 2026,2025-05-13T14:59:24.000Z,BTC
+...and everybody out there living their lives.",2025-05-12T07:17:33.000Z,BTC,0.0,0.0,1.0,0.0
+pov: you held 1 million $dog going into 2026,2025-05-13T14:59:24.000Z,BTC,0.0,0.0,1.0,0.0
 "gn folks! 
 
-bullish days / weeks / months are ahead.",2025-05-13T17:03:36.000Z,BTC
+bullish days / weeks / months are ahead.",2025-05-13T17:03:36.000Z,BTC,0.0,0.217,0.783,0.3595
 "your welcome.
 
-i have just saved you all. $btc",2025-05-13T07:03:34.000Z,BTC
+i have just saved you all. $btc",2025-05-13T07:03:34.000Z,BTC,0.0,0.453,0.547,0.7003
 "introducing cryptotwits 
 
 the most insightful platform for crypto traders, now inside stocktwits.
@@ -120,12 +120,12 @@ trending tokens, sentiment, & news
 sleek new look
 one-tap switch from stocks to crypto
 
-try it here: https://cryptotwits.xyz",2025-05-12T12:36:18.000Z,BTC
+try it here: https://cryptotwits.xyz",2025-05-12T12:36:18.000Z,BTC,0.0,0.0,1.0,0.0
 "gm
 
 time to hypergamble into generational wealth.
 
-your golden ticket awaits.",2025-05-14T06:36:08.000Z,BTC
+your golden ticket awaits.",2025-05-14T06:36:08.000Z,BTC,0.0,0.333,0.667,0.5423
 "i'm officially a $btc billionaire! 
 
 as i promised, i want to change someone’s life—giving away 1 #bitcoin (~$103,000) to one lucky winner by tomorrow!
@@ -134,46 +134,46 @@ like, rt, follow
 @mrcrypto3706
  and comment 'done' to enter.
 
-winner announced in 48h!",2025-05-13T10:19:06.000Z,BTC
+winner announced in 48h!",2025-05-13T10:19:06.000Z,BTC,0.0,0.362,0.638,0.9483
 "btc interoperability is going to be  in 2025! 
 
-which #defi feature do you want most on #zenchain?",2025-05-13T14:22:10.000Z,BTC
+which #defi feature do you want most on #zenchain?",2025-05-13T14:22:10.000Z,BTC,0.0,0.09,0.91,0.1511
 "gm - go mainstream on soneium with sake!
 
 $op rewards is live for sake's $btc campaign, we have also added $op incentive to borrows of stablecoins - usdc & $usdt0
 
 how do you earn $op?
 head to: https://app.sakefinance.com
-deposit solvbtc earn 5.78% apy & borrow solvbtc earn $op &",2025-05-13T06:21:30.000Z,BTC
+deposit solvbtc earn 5.78% apy & borrow solvbtc earn $op &",2025-05-13T06:21:30.000Z,BTC,0.0,0.111,0.889,0.7088
 "just in: strategy acquires 13,390 btc for $1.34 billion at $99,856 per bitcoin.
 
-they now hodl 568,840 btc with an average price of $69,287 per bitcoin.",2025-05-12T12:04:09.000Z,BTC
+they now hodl 568,840 btc with an average price of $69,287 per bitcoin.",2025-05-12T12:04:09.000Z,BTC,0.0,0.0,1.0,0.0
 "bagged another $10k in #bitcoin!
 
 stacking sats with every dollar possible.
 
- #btc = all i need.",2025-05-13T23:41:26.000Z,BTC
+ #btc = all i need.",2025-05-13T23:41:26.000Z,BTC,0.0,0.0,1.0,0.0
 "the fed is cornered, and bitcoin dominance has peaked.
 
 now it’s time for #altcoins to shine.
 
 protect your bags.
 
-$btc #altcoin #crypto",2025-05-13T19:00:01.000Z,BTC
+$btc #altcoin #crypto",2025-05-13T19:00:01.000Z,BTC,0.082,0.173,0.745,0.3182
 "$bert #bert 
 it's only a matter of time before we break this area.
 once we break it, it will suddenly jump to 200 million
 @bertcoincto
  @btc_charlie
  @trader1sz
- @benarmstrongsx",2025-05-14T04:58:08.000Z,BTC
+ @benarmstrongsx",2025-05-14T04:58:08.000Z,BTC,0.0,0.039,0.961,0.0258
 "$npc 
 
 let’s see how strong the  
 @nonplayablecoin
  community is
 
-make some noise in the comments",2025-05-12T08:37:14.000Z,BTC
+make some noise in the comments",2025-05-12T08:37:14.000Z,BTC,0.0,0.191,0.809,0.5106
 "giving away 1 $btc to a lucky follower!
 
 today, #bitcoin hit $100,000 - a historic milestone for the industry. 
@@ -184,16 +184,16 @@ like, rt and follow
 @brknfeller
  
 
-random winner in 24 hours, must be",2025-05-13T22:42:11.000Z,BTC
-only like and retweet if you believe in $btc,2025-05-12T17:07:06.000Z,BTC
+random winner in 24 hours, must be",2025-05-13T22:42:11.000Z,BTC,0.0,0.314,0.686,0.9538
+only like and retweet if you believe in $btc,2025-05-12T17:07:06.000Z,BTC,0.0,0.238,0.762,0.3612
 "$btc 
 
 #bitcoin 
 
 the fractal scenario!
 
-128-130k",2025-05-13T09:02:38.000Z,BTC
-"michael saylor 'strategy' bought another 13,390 $btc($1.34b) at an average price of $99,856 last week.",2025-05-12T12:17:45.000Z,BTC
+128-130k",2025-05-13T09:02:38.000Z,BTC,0.0,0.0,1.0,0.0
+"michael saylor 'strategy' bought another 13,390 $btc($1.34b) at an average price of $99,856 last week.",2025-05-12T12:17:45.000Z,BTC,0.0,0.0,1.0,0.0
 "this cycle:
 
 1 $btc = $150,000
@@ -201,7 +201,7 @@ the fractal scenario!
 1 $sol = $500
 1 $doge = $1
 
-are you ready?",2025-05-13T17:53:55.000Z,BTC
+are you ready?",2025-05-13T17:53:55.000Z,BTC,0.0,0.111,0.889,0.3612
 "gm, happy taco tuesday!
 
 current crypto prices:
@@ -214,7 +214,7 @@ sol  174,51 $
 
 dot 5,23 $
 
-kaito 2,04 $",2025-05-13T12:50:31.000Z,BTC
+kaito 2,04 $",2025-05-13T12:50:31.000Z,BTC,0.0,0.16,0.84,0.6114
 "i'm officially a $btc billionaire! 
 
 as i promised, i want to change someone’s life—giving away 1 #bitcoin (~$103,000) to one lucky winner by tomorrow!
@@ -223,7 +223,7 @@ like, rt, follow
 @mrcryptoxwhale
  and comment 'done' to enter.
 
-winner announced in 48h!",2025-05-12T18:57:15.000Z,BTC
+winner announced in 48h!",2025-05-12T18:57:15.000Z,BTC,0.0,0.362,0.638,0.9483
 "drop your $btc address 
 
 i will send you $11,500 in 24h
@@ -231,11 +231,11 @@ i will send you $11,500 in 24h
 
 rt and follow
 
- retweet my pinned post",2025-05-13T09:23:55.000Z,BTC
+ retweet my pinned post",2025-05-13T09:23:55.000Z,BTC,0.085,0.109,0.806,0.1531
 "i took 10 days for myself, away from home, my grind, and my wallet. i walked 107 kilometers along the wild atlantic coast of portugal. 
 
 sometimes you need to disconnect completely, leave your phone, leave web3, clear your mind.
-today i'm back, recharged and more focused than",2025-05-14T02:07:38.000Z,BTC
+today i'm back, recharged and more focused than",2025-05-14T02:07:38.000Z,BTC,0.053,0.107,0.84,0.5859
 "i promised, if bitcoin pumps to $104k 
 i will give $10,000 btc to 5 people 
 
@@ -248,8 +248,8 @@ rules: like, retweet, follow
 
 * if you’re not following, you will be disqualified.
 
-proof will be posted in 24 hours",2025-05-13T22:36:28.000Z,BTC
-ordinals and runes' comeback will be historic,2025-05-12T16:04:33.000Z,BTC
+proof will be posted in 24 hours",2025-05-13T22:36:28.000Z,BTC,0.049,0.179,0.772,0.749
+ordinals and runes' comeback will be historic,2025-05-12T16:04:33.000Z,BTC,0.0,0.0,1.0,0.0
 "#mstr2100 has acquired 13,390 $btc sats for 0.00556eth @  ~$104,023 per #bitcoin. 
 
 as of 5/13/2025. we hodl 568,840 sats and will continue to match every buy 
@@ -258,19 +258,19 @@ as of 5/13/2025. we hodl 568,840 sats and will continue to match every buy
 @strategy
  makes. $mstr
 
-our treasury continues to grow.",2025-05-13T23:41:48.000Z,BTC
+our treasury continues to grow.",2025-05-13T23:41:48.000Z,BTC,0.0,0.049,0.951,0.2023
 "let's dive into something new and potentially game-changing in the crypto space!  i've been digging into $rize - 
 @trize_io
 ,  and their vision for the future of assets is pretty interesting. 
 
-they're focused on tokenization, which is essentially bringing real-world assets onto",2025-05-13T10:45:55.000Z,BTC
+they're focused on tokenization, which is essentially bringing real-world assets onto",2025-05-13T10:45:55.000Z,BTC,0.0,0.283,0.717,0.9041
 "we’re excited to team up with 
 @bsquarednetwork
 , a next-gen bitcoin layer2 scaling btc across infrastructure, defi, and intelligent routing.
 
 bitfi is proud to bring native btc yield into this ecosystem, unlocking cefi-grade returns with defi composability.
 
-together, we’re",2025-05-14T06:06:13.000Z,BTC
+together, we’re",2025-05-14T06:06:13.000Z,BTC,0.0,0.191,0.809,0.8176
 "- fear and greed 
 - $eth ( are you early ? ) 
 - #btc levels and plan 
@@ -281,21 +281,21 @@ together, we’re",2025-05-14T06:06:13.000Z,BTC
 
 risk and reward explained . 
 
-always calculate the risk before you calculate the",2025-05-14T06:21:19.000Z,BTC
+always calculate the risk before you calculate the",2025-05-14T06:21:19.000Z,BTC,0.188,0.111,0.701,-0.6124
 "we're excited to partner with 
 @portaltobitcoin
  - the only custodyless, cross-chain infrastructure for native bitcoin! 
 
-portal is building tools for global financial self-sovereignty. trust-minimized swaps across btc, eth, sol, and more. no bridges, wrapping, or custodians.",2025-05-13T11:04:24.000Z,BTC
+portal is building tools for global financial self-sovereignty. trust-minimized swaps across btc, eth, sol, and more. no bridges, wrapping, or custodians.",2025-05-13T11:04:24.000Z,BTC,0.071,0.061,0.868,-0.0989
 "$ponke +98% 
 
-next one is $brett",2025-05-14T06:52:40.000Z,BTC
-how high do you think bitcoin is going?,2025-05-12T23:36:11.000Z,BTC
+next one is $brett",2025-05-14T06:52:40.000Z,BTC,0.0,0.0,1.0,0.0
+how high do you think bitcoin is going?,2025-05-12T23:36:11.000Z,BTC,0.0,0.0,1.0,0.0
 "when does #bitcoin shine? which months tend to be stronger?
 
 after a long break, bitcoin has once again surpassed the $100,000 mark, drawing significant attention. so, based on historical data, which periods have been the most productive for $btc ?
 
-looking at average monthly",2025-05-13T12:53:15.000Z,BTC
+looking at average monthly",2025-05-13T12:53:15.000Z,BTC,0.0,0.105,0.895,0.6046
 "which #crypto project will make you a millionaire?
 
 #btc
@@ -324,7 +324,7 @@ $dog
 #bluesparrow
 #bsb
 
-other options??",2025-05-13T14:47:22.000Z,BTC
+other options??",2025-05-13T14:47:22.000Z,BTC,0.0,0.109,0.891,0.6298
 "top 10 cryptocurrencies surged last week: #eth and #doge lead the gains
 
 1. #btc 9.83%
@@ -338,7 +338,7 @@ other options??",2025-05-13T14:47:22.000Z,BTC
 9. #link 25.13%
 10. #avax 26.9%
 
- the entire crypto market saw",2025-05-12T04:56:03.000Z,BTC
+ the entire crypto market saw",2025-05-12T04:56:03.000Z,BTC,0.0,0.085,0.915,0.4939
 "$100 giveaway.
 
 - like, rt & follow 
@@ -347,13 +347,13 @@ other options??",2025-05-13T14:47:22.000Z,BTC
 -drop wallet address.
 - rt & comment
 
-i’ll send $50 to 2 winners in 24 hours.",2025-05-13T15:56:00.000Z,BTC
+i’ll send $50 to 2 winners in 24 hours.",2025-05-13T15:56:00.000Z,BTC,0.073,0.195,0.732,0.5423
 "drop your $btc address 
 
 i will send you $42,000 in 24h
 (yes for real )
 
-rt and follow",2025-05-12T20:18:53.000Z,BTC
+rt and follow",2025-05-12T20:18:53.000Z,BTC,0.101,0.13,0.769,0.1531
 "node rocks giveaway 
 
 win 1 noderock — one of the iconic 10k yin-yangs on bitcoin.
@@ -371,19 +371,19 @@ http://1.like & repost
 winner in 48h.
 let the chaos begin.
 
-#ordinals #bitcoin",2025-05-13T09:54:40.000Z,BTC
-$eth/btc another leg up?,2025-05-13T15:42:09.000Z,BTC
-"these guys show up to deliver you 10k btc worth of pizza, wwyd?",2025-05-12T19:29:25.000Z,BTC
-this is the best 5 minute summary on money and bitcoin i’ve ever heard. must listen.,2025-05-14T01:22:57.000Z,BTC
+#ordinals #bitcoin",2025-05-13T09:54:40.000Z,BTC,0.073,0.241,0.686,0.8221
+$eth/btc another leg up?,2025-05-13T15:42:09.000Z,BTC,0.0,0.0,1.0,0.0
+"these guys show up to deliver you 10k btc worth of pizza, wwyd?",2025-05-12T19:29:25.000Z,BTC,0.0,0.137,0.863,0.2263
+this is the best 5 minute summary on money and bitcoin i’ve ever heard. must listen.,2025-05-14T01:22:57.000Z,BTC,0.0,0.219,0.781,0.6369
 "breaking 
 
-us inflation falls to 2.3%, below expectations.",2025-05-13T13:24:19.000Z,BTC
-"me when some one said "" btc is a scam "" on x",2025-05-13T13:10:00.000Z,BTC
+us inflation falls to 2.3%, below expectations.",2025-05-13T13:24:19.000Z,BTC,0.0,0.0,1.0,0.0
+"me when some one said "" btc is a scam "" on x",2025-05-13T13:10:00.000Z,BTC,0.236,0.0,0.764,-0.5719
 "bitcoin will go to $200,000.
 
 $eth will go to $10,000.
 
-it’s inevitable.",2025-05-13T19:17:52.000Z,BTC
+it’s inevitable.",2025-05-13T19:17:52.000Z,BTC,0.0,0.0,1.0,0.0
 "race to 50,000 followers! 
 
 it’s me vs. #btc’s ath!! ($109,360)
@@ -397,17 +397,17 @@ to enter:
  follow me 
 @marzellcrypto
  like + repost
- tag 3 friends",2025-05-12T08:22:18.000Z,BTC
-$btc hopium for the sideliners,2025-05-13T14:36:21.000Z,BTC
+ tag 3 friends",2025-05-12T08:22:18.000Z,BTC,0.0,0.189,0.811,0.8614
+$btc hopium for the sideliners,2025-05-13T14:36:21.000Z,BTC,0.0,0.0,1.0,0.0
 "gm to the 20 of us left here!!  
 
 here for the $5k $btc candles in a day.
 
-are your bags ready for it fam?",2025-05-13T13:06:01.000Z,BTC
-$dog is gaining more an more attention,2025-05-13T19:10:43.000Z,BTC
-gm bitcoin ordinals and pizza ninjas,2025-05-13T13:22:24.000Z,BTC
-$dog is pegged to btc like no other. stack your sats and invest into $dog on bitcoin and watch your btc increase 40% more over 7d and 127% over 30d than if you just held your btc. it’s a leverage play for the most finite asset in the world. there isn’t a second best to btc that’s,2025-05-13T18:10:48.000Z,BTC
-"just in: michael saylor’s strategy acquires 13,390 $btc worth $1.34 billion.",2025-05-12T12:07:00.000Z,BTC
+are your bags ready for it fam?",2025-05-13T13:06:01.000Z,BTC,0.0,0.118,0.882,0.4738
+$dog is gaining more an more attention,2025-05-13T19:10:43.000Z,BTC,0.0,0.318,0.682,0.4215
+gm bitcoin ordinals and pizza ninjas,2025-05-13T13:22:24.000Z,BTC,0.0,0.0,1.0,0.0
+$dog is pegged to btc like no other. stack your sats and invest into $dog on bitcoin and watch your btc increase 40% more over 7d and 127% over 30d than if you just held your btc. it’s a leverage play for the most finite asset in the world. there isn’t a second best to btc that’s,2025-05-13T18:10:48.000Z,BTC,0.033,0.21,0.757,0.8996
+"just in: michael saylor’s strategy acquires 13,390 $btc worth $1.34 billion.",2025-05-12T12:07:00.000Z,BTC,0.0,0.16,0.84,0.2263
 "#btc 
 
 can bitcoin do it?
@@ -416,7 +416,7 @@ can bitcoin weekly close above the range high of its recently reclaimed re-accum
 
 bitcoin is on the cusp of beginning price discovery uptrend 2
 
-$btc #crypto #bitcoin",2025-05-11T12:42:53.000Z,BTC
+$btc #crypto #bitcoin",2025-05-11T12:42:53.000Z,BTC,0.0,0.0,1.0,0.0
 "btc pizza day challenge – $200 usdt giveaway! 
 
 can you guess the #bitcoin price on may 22, 10:00 am (utc+4)?
@@ -428,33 +428,33 @@ here’s how to join:
  comment your guess + #btcpizzaday & #ueex
  tag 3 friends
 
- 10 winners will each receive",2025-05-12T06:30:47.000Z,BTC
-the greatest crime in history.,2025-05-13T01:31:52.000Z,BTC
+ 10 winners will each receive",2025-05-12T06:30:47.000Z,BTC,0.0,0.234,0.766,0.8883
+the greatest crime in history.,2025-05-13T01:31:52.000Z,BTC,0.327,0.393,0.28,0.1779
 "b² × bitfi | scaling btc yield with cedefi synergy
 
 we’re teaming up with 
 @bitfi_org
   an innovative btc liquidity protocol — to unlock new ways for btc to move, earn, and grow.
 
-through this partnership, we’re building a complete path from btc mining & staking → cedefi yield",2025-05-14T06:01:58.000Z,BTC
-$200k btc is ultimately inevitable...probably happening this year:,2025-05-12T10:43:20.000Z,BTC
+through this partnership, we’re building a complete path from btc mining & staking → cedefi yield",2025-05-14T06:01:58.000Z,BTC,0.0,0.058,0.942,0.4404
+$200k btc is ultimately inevitable...probably happening this year:,2025-05-12T10:43:20.000Z,BTC,0.0,0.0,1.0,0.0
 "bitcoin, ordinals & runes on the move 
 
 tomorrow, 5/14 at 9am et
 
-set your reminders",2025-05-13T14:21:04.000Z,BTC
+set your reminders",2025-05-13T14:21:04.000Z,BTC,0.0,0.0,1.0,0.0
 "blackrock is hungry for bitcoin! 
 
 this week they devoured a whopping 10,572 btc, while miners only churned out an average of 3,150.
 
-the demand is real!",2025-05-12T08:43:47.000Z,BTC
+the demand is real!",2025-05-12T08:43:47.000Z,BTC,0.077,0.0,0.923,-0.2695
 "are you a believer in #moodeng?
 
-new aths coming",2025-05-13T12:20:14.000Z,BTC
+new aths coming",2025-05-13T12:20:14.000Z,BTC,0.0,0.0,1.0,0.0
 "update:  etf flows of yesterday (may 13),
 
 bitcoin spot etfs sold around 889 $btc ($91m) 
-ethereum spot etfs bought around 5,410 $eth ($13m)",2025-05-14T04:54:53.000Z,BTC
+ethereum spot etfs bought around 5,410 $eth ($13m)",2025-05-14T04:54:53.000Z,BTC,0.0,0.0,1.0,0.0
 "hash rate - ep 110: taohash: btc mining subnet 14
  guest: vune 
 @kibibyteme
@@ -465,7 +465,7 @@ ethereum spot etfs bought around 5,410 $eth ($13m)",2025-05-14T04:54:53.000Z,BTC
 0:00  introduction to cameron fairchild (vune)
 03:09  tao core development and team dynamics
 04:41  launch of dtao and initial reactions
-07:32  how does taohash work? who gets the btc?",2025-05-13T21:29:38.000Z,BTC
+07:32  how does taohash work? who gets the btc?",2025-05-13T21:29:38.000Z,BTC,0.0,0.054,0.946,0.3527
 "the most valuable assets in the world right.
 
 $btc: $105,000
@@ -474,57 +474,57 @@ $sol: $200
 
 but there is one asset more valuable then them all.
 
-that asset is $health.",2025-05-14T03:41:51.000Z,BTC
-who has some rope?,2025-05-13T23:57:28.000Z,BTC
+that asset is $health.",2025-05-14T03:41:51.000Z,BTC,0.0,0.391,0.609,0.9297
+who has some rope?,2025-05-13T23:57:28.000Z,BTC,0.0,0.0,1.0,0.0
 "couple months ago everyone was posting this fractal for $btc. 
 
-anyone still vibing with this idea or is everyone aiming way higher.",2025-05-13T20:41:19.000Z,BTC
-misclick 33 sol buy and instantly lost 3k,2025-05-13T22:57:59.000Z,BTC
+anyone still vibing with this idea or is everyone aiming way higher.",2025-05-13T20:41:19.000Z,BTC,0.0,0.0,1.0,0.0
+misclick 33 sol buy and instantly lost 3k,2025-05-13T22:57:59.000Z,BTC,0.247,0.0,0.753,-0.3182
 "bitcoin spot etf cumulative inflows reach all-time high
 
-interest in #bitcoin continues to grow, as shown not only by on-chain metrics but also by record-breaking inflows into spot btc etfs.",2025-05-12T14:58:42.000Z,BTC
+interest in #bitcoin continues to grow, as shown not only by on-chain metrics but also by record-breaking inflows into spot btc etfs.",2025-05-12T14:58:42.000Z,BTC,0.0,0.098,0.902,0.2617
 "breaking 
 
-eth has outperformed btc and sol combined over the past 30 days",2025-05-13T20:12:58.000Z,BTC
-steak n shake is gearing up to welcome bitcoin payments across all its outlets and plans to introduce burgers branded with btc.,2025-05-14T02:15:31.000Z,BTC
+eth has outperformed btc and sol combined over the past 30 days",2025-05-13T20:12:58.000Z,BTC,0.0,0.0,1.0,0.0
+steak n shake is gearing up to welcome bitcoin payments across all its outlets and plans to introduce burgers branded with btc.,2025-05-14T02:15:31.000Z,BTC,0.069,0.121,0.81,0.3182
 "which #altcoin do you see skyrocketing this week? 
 
-one conviction to fuel portfolio ath",2025-05-13T08:59:33.000Z,BTC
+one conviction to fuel portfolio ath",2025-05-13T08:59:33.000Z,BTC,0.0,0.0,1.0,0.0
 "just look at the fartcoin/btc monthly chart  
 
-there aren't many assets in the world that have held up as well as this against btc over the last 8 months",2025-05-13T17:01:43.000Z,BTC
+there aren't many assets in the world that have held up as well as this against btc over the last 8 months",2025-05-13T17:01:43.000Z,BTC,0.05,0.069,0.882,0.1486
 "top ai ecosystem coins by social activity
-$tao $fet $render #virtual $qubic $paal $rose $cgpt $token $orai",2025-05-13T19:19:44.000Z,BTC
+$tao $fet $render #virtual $qubic $paal $rose $cgpt $token $orai",2025-05-13T19:19:44.000Z,BTC,0.0,0.101,0.899,0.2023
 "#bitcoin / $btc
 
-are you ready for this scenario?",2025-05-12T17:23:29.000Z,BTC
+are you ready for this scenario?",2025-05-12T17:23:29.000Z,BTC,0.0,0.238,0.762,0.3612
 "$wld continues rising. 
 
 holding will be wise, a big move is likely expected, imo. 
 
-dyor - nfa",2025-05-12T11:44:36.000Z,BTC
+dyor - nfa",2025-05-12T11:44:36.000Z,BTC,0.0,0.162,0.838,0.4767
 "blackrock holds.
 
 zero flows. 
 
-hold 625,736 btc",2025-05-14T01:58:36.000Z,BTC
+hold 625,736 btc",2025-05-14T01:58:36.000Z,BTC,0.0,0.0,1.0,0.0
 "the ultimate bitcoin-powered ecosystem.
 
 from daily $btc mining rewards, to miner wars, and early access to btcfi projects — you’re stepping into a living ecosystem, built to make bitcoin go further.
 
-see how it all connects.",2025-05-13T10:44:06.000Z,BTC
+see how it all connects.",2025-05-13T10:44:06.000Z,BTC,0.088,0.076,0.835,-0.128
 "$iota is following a similar path i outlined a few weeks ago.
 
 the real parabolic will start if btc holds above $100k for a week or two.
 
-after that, $iota will moon.",2025-05-13T14:21:34.000Z,BTC
+after that, $iota will moon.",2025-05-13T14:21:34.000Z,BTC,0.0,0.0,1.0,0.0
 "new targets unlocked dips are to long more  
 
 $btc says 105300 after 101800 
 
 $eth says 3k first 2795 after 2510 or 2420 
 
-$sol says 195 after 170-166",2025-05-14T03:39:02.000Z,BTC
+$sol says 195 after 170-166",2025-05-14T03:39:02.000Z,BTC,0.0,0.0,1.0,0.0
 "hypermall launches may 15th!
 
 unlike most crypto apps, hypermall runs natively on your pc (windows, mac & linux) not in a browser: 
@@ -534,7 +534,7 @@ unlike most crypto apps, hypermall runs natively on your pc (windows, mac & linu
 -  full self-custody
 
 trade $tap & $gib on bitcoin with trac network l1
-the future is here",2025-05-12T11:58:27.000Z,BTC
+the future is here",2025-05-12T11:58:27.000Z,BTC,0.0,0.0,1.0,0.0
 "say hello to 
 @matchain_io
  , the newest addition to the nuklai legion ecosystem 
@@ -544,7 +544,7 @@ predict btc. win bnb!
 
  drop 0.0001 bnb to vote,  it goes straight into the prize pool
  closest calls share the rewards
- more players, higher stakes and",2025-05-13T14:12:28.000Z,BTC
+ more players, higher stakes and",2025-05-13T14:12:28.000Z,BTC,0.038,0.262,0.7,0.9098
 "#giveaway
 
 prizes:
@@ -556,11 +556,11 @@ follow
 rt+  + tag friends
 
 24 hours
-#crypto #btc",2025-05-12T08:16:36.000Z,BTC
-retweet if you believe $btc will hit ath in may!,2025-05-12T14:11:58.000Z,BTC
+#crypto #btc",2025-05-12T08:16:36.000Z,BTC,0.0,0.382,0.618,0.872
+retweet if you believe $btc will hit ath in may!,2025-05-12T14:11:58.000Z,BTC,0.0,0.0,1.0,0.0
 "$eth has started to outperform btc, indicating phase 2 initiation of bull cycle. a massive breakouts suggest another big rally loading.
 
-i have kept my entries at retest of the trendline with targets at $3k and $4k.",2025-05-13T22:09:46.000Z,BTC
+i have kept my entries at retest of the trendline with targets at $3k and $4k.",2025-05-13T22:09:46.000Z,BTC,0.0,0.0,1.0,0.0
 "crypto holders pay attention  
 
  us cpi data will be released today at 8:30 am et.
@@ -573,8 +573,8 @@ scenario 1: cpi > 2.4%
 
 scenario 2: cpi = 2.4%
 
-● i think btc and alts will pump, due to",2025-05-13T06:44:22.000Z,BTC
-when 1 $btc is $1m you won't care if you bought at 97k or 102k,2025-05-12T21:56:51.000Z,BTC
+● i think btc and alts will pump, due to",2025-05-13T06:44:22.000Z,BTC,0.067,0.0,0.933,-0.34
+when 1 $btc is $1m you won't care if you bought at 97k or 102k,2025-05-12T21:56:51.000Z,BTC,0.158,0.0,0.842,-0.3875
 "daily reminder: our targets;
 
 $btc: $120,000+
@@ -588,81 +588,81 @@ $eth: $4,000
 $egld: $1,000
 $bnb: $1,000
 
-which will hit first? what’s your target?",2025-05-13T13:50:43.000Z,BTC
-would you buy it?,2025-05-12T10:15:59.000Z,BTC
+which will hit first? what’s your target?",2025-05-13T13:50:43.000Z,BTC,0.0,0.0,1.0,0.0
+would you buy it?,2025-05-12T10:15:59.000Z,BTC,0.0,0.0,1.0,0.0
 "as you can see the $sport dips get eaten up fast! 
 
 still under 5m mc 
 
 let’s revisit this one in a month or 2 
 
-0xd007c4c900d1df6caea2a4122f3d551d7dfe08b0",2025-05-13T17:44:04.000Z,BTC
+0xd007c4c900d1df6caea2a4122f3d551d7dfe08b0",2025-05-13T17:44:04.000Z,BTC,0.0,0.0,1.0,0.0
 "a wallet transferred 300 $btc($31.1m) to a new wallet after being dormant for 11 years.
 
 this wallet received 300 $btc($134k) 11 years ago when the price was $447.
 
-https://intel.arkm.com/explorer/address/1d7ul27jwuf2ztmqimb19yurud3vmausvg…",2025-05-13T12:48:52.000Z,BTC
+https://intel.arkm.com/explorer/address/1d7ul27jwuf2ztmqimb19yurud3vmausvg…",2025-05-13T12:48:52.000Z,BTC,0.0,0.0,1.0,0.0
 "today, $pi surged by over 63%, hitting a high of $1.3, with 24-hour trading volume skyrocketing to $1.38 billion, a +558% increase. it now ranks as the second most searched crypto globally — just behind $btc. 
-this surge isn’t just a reflection of short-term market",2025-05-12T09:17:58.000Z,BTC
+this surge isn’t just a reflection of short-term market",2025-05-12T09:17:58.000Z,BTC,0.0,0.05,0.95,0.3182
 "i have $50,000 to invest.
 
-give me your best #altcoin",2025-05-13T21:04:13.000Z,BTC
+give me your best #altcoin",2025-05-13T21:04:13.000Z,BTC,0.0,0.318,0.682,0.6369
 "global m2 vs btc - how to not be fooled by m2 at the top
 
 how to avoid being rekt if global m2 keeps going up while btc goes down.
 
 get the global m2 tradingview script with the correlation table:
-https://tradingview.com/script/im2f6uv6",2025-05-10T13:00:01.000Z,BTC
-"would you rather own 1 btc or 40,000 $xrp?",2025-05-12T12:21:52.000Z,BTC
+https://tradingview.com/script/im2f6uv6",2025-05-10T13:00:01.000Z,BTC,0.05,0.09,0.86,0.1984
+"would you rather own 1 btc or 40,000 $xrp?",2025-05-12T12:21:52.000Z,BTC,0.0,0.0,1.0,0.0
 "if you’re still active and grinding.
 
-i respect you a-lot!",2025-05-14T01:33:01.000Z,BTC
+i respect you a-lot!",2025-05-14T01:33:01.000Z,BTC,0.0,0.432,0.568,0.7263
 "looks at this fam !  
 
-$mcfl no cartoons just real food and real world applications",2025-05-12T04:56:12.000Z,BTC
-you will regret not having enough pizza ninjas,2025-05-14T02:59:03.000Z,BTC
+$mcfl no cartoons just real food and real world applications",2025-05-12T04:56:12.000Z,BTC,0.151,0.0,0.849,-0.3595
+you will regret not having enough pizza ninjas,2025-05-14T02:59:03.000Z,BTC,0.286,0.0,0.714,-0.4215
 "bitcoin price update video 
 
 how did the last plan to buy turn out?
 what's the current plan?
 what level to buy.
 
-watch and trade.",2025-05-13T12:41:13.000Z,BTC
+watch and trade.",2025-05-13T12:41:13.000Z,BTC,0.0,0.0,1.0,0.0
 "breaking: 
 @taprootwizards
- have risen above their mint price of 0.2 btc",2025-05-14T03:45:13.000Z,BTC
+ have risen above their mint price of 0.2 btc",2025-05-14T03:45:13.000Z,BTC,0.0,0.0,1.0,0.0
 "the bitcoin bulls are officially back!
 
 $btc broke above the 1-year mvrv ma, a signal that starts a major rally!
 
-dyor",2025-05-14T06:01:00.000Z,BTC
+dyor",2025-05-14T06:01:00.000Z,BTC,0.145,0.0,0.855,-0.5242
 "hey 
 @grok
  ,
 
 if $eth hits $100,000 within 48 hours, you need to pick one random account from the comments that follows me. 
 
-the winner will get $1,000 worth of $eth or $usdt",2025-05-14T06:44:04.000Z,BTC
+the winner will get $1,000 worth of $eth or $usdt",2025-05-14T06:44:04.000Z,BTC,0.0,0.155,0.845,0.6908
 "michael saylor just bought $1.34 billion dollars of bitcoin
 
 average price $99,856
 
-strategy total holdings: $59.06b btc",2025-05-12T14:01:37.000Z,BTC
+strategy total holdings: $59.06b btc",2025-05-12T14:01:37.000Z,BTC,0.0,0.0,1.0,0.0
 "xrp surpasses $usdt, now third-largest cryptocurrency.  
 
-$xrp etf anticipation builds!",2025-05-12T16:46:03.000Z,BTC
-everyone is selling their btc for $eth,2025-05-13T23:02:20.000Z,BTC
+$xrp etf anticipation builds!",2025-05-12T16:46:03.000Z,BTC,0.0,0.158,0.842,0.1759
+everyone is selling their btc for $eth,2025-05-13T23:02:20.000Z,BTC,0.0,0.0,1.0,0.0
 "bullish cross on macd.
 
-#bitcoin is about to explode",2025-05-14T06:52:29.000Z,BTC
+#bitcoin is about to explode",2025-05-14T06:52:29.000Z,BTC,0.0,0.0,1.0,0.0
 "$btc still holding this beauty! 
 
 i’ll give away 5% of my profits to someone picked randomly among the rts & likes 
 
-good luck !",2025-05-12T14:47:57.000Z,BTC
+good luck !",2025-05-12T14:47:57.000Z,BTC,0.0,0.468,0.532,0.9492
 "you get $1,000,000 and have to put 200k into 5 coins each and hold for 5 years
 
-which coins do you choose? choose wisely",2025-05-14T01:27:34.000Z,BTC
+which coins do you choose? choose wisely",2025-05-14T01:27:34.000Z,BTC,0.0,0.109,0.891,0.4215
 "i’ll be launching a $1,000 giveaway every day for the rest of may to my community.
 
 every winner will show receipts.
@@ -671,23 +671,23 @@ not fake like 99% of the giveaways on this app.
 
 prizes in $btc $eth $sol $bnb $kas or $xrp
 
-first one launching at 1,000 likes :)",2025-05-13T18:17:32.000Z,BTC
-ordinals.,2025-05-12T13:40:49.000Z,BTC
+first one launching at 1,000 likes :)",2025-05-13T18:17:32.000Z,BTC,0.036,0.26,0.704,0.9193
+ordinals.,2025-05-12T13:40:49.000Z,BTC,0.0,0.0,1.0,0.0
 "dave ramsey show flips stance on bitcoin 
 
 after fading btc since 2014, it finally appears that the dave ramsey show has now begun to soften its stance on bitcoin.
 
-“bitcoin has arrived and it’s here to stay….it should be a part of a diversified strategy”",2025-05-14T00:57:43.000Z,BTC
+“bitcoin has arrived and it’s here to stay….it should be a part of a diversified strategy”",2025-05-14T00:57:43.000Z,BTC,0.0,0.0,1.0,0.0
 "$xrp futures explode! $1b+ surge in open interest this week (+41.6%) according to glassnode! 
 
 sol had its moment. is $xrp next? 
  
-double digits the eoy  #xrparmy",2025-05-13T11:00:10.000Z,BTC
+double digits the eoy  #xrparmy",2025-05-13T11:00:10.000Z,BTC,0.0,0.125,0.875,0.555
 "total altcoin marketcap.
 
-what do you think happens next?",2025-05-13T13:44:56.000Z,BTC
+what do you think happens next?",2025-05-13T13:44:56.000Z,BTC,0.0,0.0,1.0,0.0
 "open xverse and see 1 btc.
-what do you do?",2025-05-13T17:22:29.000Z,BTC
+what do you do?",2025-05-13T17:22:29.000Z,BTC,0.0,0.0,1.0,0.0
 "my favorite $btc $mstr -inspired play is $ownb.
 
 yes, even more so than $msty.
@@ -699,7 +699,7 @@ mstr: +37%
 ownb: +29%
 btc: +23%
 
-i’ve also",2025-05-13T20:12:43.000Z,BTC
+i’ve also",2025-05-13T20:12:43.000Z,BTC,0.0,0.24,0.76,0.8979
 "update
 
 my weighted portfolio
@@ -718,25 +718,25 @@ my weighted portfolio
 1% $sol
 1% $ixs
 1% $inj
-1% other",2025-05-13T08:29:01.000Z,BTC
+1% other",2025-05-13T08:29:01.000Z,BTC,0.0,0.0,1.0,0.0
 "in fiat, the first $1,000,000 is the hardest.
 
-in bitcoin, the last 100k btc is the hardest.",2025-05-12T01:23:05.000Z,BTC
+in bitcoin, the last 100k btc is the hardest.",2025-05-12T01:23:05.000Z,BTC,0.0,0.0,1.0,0.0
 "biggest bull run starts may 13 
 
 historically, each altseason starts ~180 days after the #btc halving.
 
 it happened in 2017. again in 2021. 2025 — altcoins will explode.
 
-here's a list of lowcaps with 1000x potential",2025-05-12T15:18:15.000Z,BTC
+here's a list of lowcaps with 1000x potential",2025-05-12T15:18:15.000Z,BTC,0.0,0.0,1.0,0.0
 "$propc 
 @propchainglobal
  is one of the strongest rwa projects out there
 
-forming a nice accumulation range. i'm expecting a breakout soon",2025-05-11T21:01:44.000Z,BTC
+forming a nice accumulation range. i'm expecting a breakout soon",2025-05-11T21:01:44.000Z,BTC,0.0,0.231,0.769,0.6908
 "this could be a +$20k week. 
 
-$125,000 is not off the table.",2025-05-11T15:44:02.000Z,BTC
+$125,000 is not off the table.",2025-05-11T15:44:02.000Z,BTC,0.0,0.0,1.0,0.0
 "20 straight days of inflows for blackrock's bitcoin etf! just added another 686 $btc ($70m!). 
 
 this isn’t just a dip-buy; it's a clear sign of consistent institutional demand.
@@ -744,14 +744,14 @@ this isn’t just a dip-buy; it's a clear sign of consistent institutional deman
 the narrative is shifting— bitcoin is unstoppable! 
 
 source: 
-@cryptosavingexp",2025-05-13T11:33:11.000Z,BTC
+@cryptosavingexp",2025-05-13T11:33:11.000Z,BTC,0.079,0.129,0.792,0.4724
 "gm - how are the shorts ? thank you 
 
 but now i am adding longs 
 
 literally told eveyone eth 2600 tap and $btc 105500 -106100 tap and retrace. 
 
-if you are rekt and longed today hearing china and us deal don’t worry turn notifications on for next time you listen to me and  https://x.com/cryptomarketh//cryptomarketh/status/1921379685784510499…",2025-05-12T18:48:54.000Z,BTC
+if you are rekt and longed today hearing china and us deal don’t worry turn notifications on for next time you listen to me and  https://x.com/cryptomarketh//cryptomarketh/status/1921379685784510499…",2025-05-12T18:48:54.000Z,BTC,0.067,0.03,0.903,-0.4767
 "a whale just added more $btc longs 
 
 • entry: $99k
@@ -761,57 +761,57 @@ if you are rekt and longed today hearing china and us deal don’t worry turn no
 
 moves like this speak louder than any chart
 
-it’s calculated conviction — and he’s already up $2.2m.",2025-05-13T06:36:17.000Z,BTC
+it’s calculated conviction — and he’s already up $2.2m.",2025-05-13T06:36:17.000Z,BTC,0.0,0.17,0.83,0.765
 "going to vegas? 
 
 24 hours left to fill out this form and get your 1/1 pizza ninja hat
 
-https://vip.ninjalerts.com/ninjahats",2025-05-14T02:37:34.000Z,BTC
-gm pizza ninjas and everyone in bitcoin ordinals,2025-05-12T13:16:06.000Z,BTC
+https://vip.ninjalerts.com/ninjahats",2025-05-14T02:37:34.000Z,BTC,0.0,0.0,1.0,0.0
+gm pizza ninjas and everyone in bitcoin ordinals,2025-05-12T13:16:06.000Z,BTC,0.0,0.0,1.0,0.0
 "5 of the most important lessons you'll learn from me.
 
-1. the power of a morning routine: how you start your day sets the tone for everything that follows. never miss the sunrise again. by creating a morning routine that includes sunrise, meditation, visualization, exercise,",2025-05-14T03:10:26.000Z,BTC
-what are you buying today ?,2025-05-14T06:38:27.000Z,BTC
+1. the power of a morning routine: how you start your day sets the tone for everything that follows. never miss the sunrise again. by creating a morning routine that includes sunrise, meditation, visualization, exercise,",2025-05-14T03:10:26.000Z,BTC,0.0,0.12,0.88,0.5771
+what are you buying today ?,2025-05-14T06:38:27.000Z,BTC,0.0,0.0,1.0,0.0
 "$btc daily 
 
-clean af",2025-05-13T17:49:23.000Z,BTC
+clean af",2025-05-13T17:49:23.000Z,BTC,0.0,0.474,0.526,0.4019
 "fact: new hampshire can now invest up to 5% of its state treasury into #bitcoin 
 
-it could be the 1st state to buy btc",2025-05-11T09:54:30.000Z,BTC
-5.5k $btc in oi has been added after cpi print... big move is coming.,2025-05-13T14:43:44.000Z,BTC
+it could be the 1st state to buy btc",2025-05-11T09:54:30.000Z,BTC,0.0,0.073,0.927,0.2023
+5.5k $btc in oi has been added after cpi print... big move is coming.,2025-05-13T14:43:44.000Z,BTC,0.0,0.0,1.0,0.0
 "i give you $500 what are you buying ?
 
-best answer win price.",2025-05-13T17:03:46.000Z,BTC
+best answer win price.",2025-05-13T17:03:46.000Z,BTC,0.0,0.421,0.579,0.8402
 "eth will never flip btc if the community keeps referring to it as a ""cashflow asset"" or ""revenue"" of any kind.
 
 eth is a sovereign store of value with better monetary policy than btc. 
 
-this is the winning mindvirus by a country mile.",2025-05-14T03:54:19.000Z,BTC
+this is the winning mindvirus by a country mile.",2025-05-14T03:54:19.000Z,BTC,0.0,0.278,0.722,0.9274
 "alright ct since you cried about the fartcoin short how's this?
 
-liquidate the ape shorting on chain @ $1.55 tonight at least.",2025-05-13T20:34:33.000Z,BTC
-.. what if $eth / $btc ..,2025-05-13T17:27:04.000Z,BTC
+liquidate the ape shorting on chain @ $1.55 tonight at least.",2025-05-13T20:34:33.000Z,BTC,0.106,0.081,0.813,-0.1531
+.. what if $eth / $btc ..,2025-05-13T17:27:04.000Z,BTC,0.0,0.0,1.0,0.0
 "breaking news: uae's mbank launches aed crypto conversion service. 
 
-al maryah community bank (mbank), a uae digital bank, has partnered with crypto custodian http://changer.ae to launch a new service enabling the conversion of cryptocurrencies like #usdt and #usdc into",2025-05-13T07:47:09.000Z,BTC
+al maryah community bank (mbank), a uae digital bank, has partnered with crypto custodian http://changer.ae to launch a new service enabling the conversion of cryptocurrencies like #usdt and #usdc into",2025-05-13T07:47:09.000Z,BTC,0.0,0.062,0.938,0.3612
 "#btc 
 
-consolidation after a move up favors a continuation",2025-05-11T15:38:08.000Z,BTC
+consolidation after a move up favors a continuation",2025-05-11T15:38:08.000Z,BTC,0.0,0.2,0.8,0.25
 "let me share an idea:
 
 $eth has been consolidating for the last 4 years after a 48x increase from the bottom of 2020.
 
 a well-deserved consolidation, we can agree.
 
-now what do they say? the longer the consolidation...",2025-05-13T18:26:39.000Z,BTC
+now what do they say? the longer the consolidation...",2025-05-13T18:26:39.000Z,BTC,0.0,0.167,0.833,0.7184
 "if $eth reclaims this resistance vs. btc - it'll keep pulling moves like this for weeks on end. 
 
-fingers crossed.",2025-05-13T19:43:42.000Z,BTC
+fingers crossed.",2025-05-13T19:43:42.000Z,BTC,0.0,0.116,0.884,0.3612
 "gm folks!
 
-things are really heating up in the altcoin world!",2025-05-14T04:47:00.000Z,BTC
-slap yourself if you sold your $btc before it hit $100k!,2025-05-12T02:02:58.000Z,BTC
-"new: mike bucella, co-founder of neoclassic capital, says institutions are causing a $btc supply squeeze",2025-05-13T23:53:00.000Z,BTC
+things are really heating up in the altcoin world!",2025-05-14T04:47:00.000Z,BTC,0.0,0.0,1.0,0.0
+slap yourself if you sold your $btc before it hit $100k!,2025-05-12T02:02:58.000Z,BTC,0.0,0.159,0.841,0.2244
+"new: mike bucella, co-founder of neoclassic capital, says institutions are causing a $btc supply squeeze",2025-05-13T23:53:00.000Z,BTC,0.0,0.0,1.0,0.0
 "$btc
 
 i’m bullish af.
@@ -823,24 +823,24 @@ eventually.
 just be ready.
 and know what to do.
 
-bid fucking hard!",2025-05-12T11:03:41.000Z,BTC
+bid fucking hard!",2025-05-12T11:03:41.000Z,BTC,0.074,0.128,0.798,0.3617
 "$btc $200,000
 $eth $10,000 
 $sol $1,000
 $xrp $10 
 $doge $1 
 
-do you understand?",2025-05-11T20:41:01.000Z,BTC
+do you understand?",2025-05-11T20:41:01.000Z,BTC,0.0,0.0,1.0,0.0
 "inside candle = market indecision
 
 $btc currently trading inside yesterday's range. until we break out, expect consolidation
 
 btc dominance dropping while $eth shows relative strength
 
-which means > rotation to alts happening",2025-05-14T05:53:12.000Z,BTC
+which means > rotation to alts happening",2025-05-14T05:53:12.000Z,BTC,0.05,0.14,0.81,0.4939
 "just in: 
 @xverseapp
- now allows users to buy $btc, swap $dog with ease using apple pay, credit cards, google pay and more",2025-05-13T03:33:58.000Z,BTC
+ now allows users to buy $btc, swap $dog with ease using apple pay, credit cards, google pay and more",2025-05-13T03:33:58.000Z,BTC,0.108,0.197,0.695,0.5106
 "women of bitcoin announcement 
 
 join us for the 4th annual women of bitcoin brunch at btc vegas! 
@@ -849,25 +849,25 @@ tickets go live this friday, may 16th at 10am et and they are expected to sell o
 
 bookmark the link and set your alarms: https://b.tc/conference/2025/women-of-bitcoin…
 
-thank you to",2025-05-13T14:43:29.000Z,BTC
+thank you to",2025-05-13T14:43:29.000Z,BTC,0.042,0.105,0.853,0.4912
 "btc is up +11.2% year-to-date and above all means.
 
 also, all trend lines are up - clear direction.
 
 nice & easy from here.
 
-this time, you’re gonna make it.",2025-05-13T17:23:13.000Z,BTC
+this time, you’re gonna make it.",2025-05-13T17:23:13.000Z,BTC,0.0,0.242,0.758,0.8074
 "$vine +165% 
 
-thanks for pump.",2025-05-14T05:41:18.000Z,BTC
-first bitcoin cycle:          vs        fourth bitcoin cycle:,2025-05-13T17:37:03.000Z,BTC
-$eth is about to explode,2025-05-13T10:42:41.000Z,BTC
+thanks for pump.",2025-05-14T05:41:18.000Z,BTC,0.0,0.42,0.58,0.4404
+first bitcoin cycle:          vs        fourth bitcoin cycle:,2025-05-13T17:37:03.000Z,BTC,0.0,0.0,1.0,0.0
+$eth is about to explode,2025-05-13T10:42:41.000Z,BTC,0.0,0.0,1.0,0.0
 "blackrock 2017:
 bitcoin is for money laundering 
 
 blackrock 2025:
-hold my beer we’re buying 625,000 $btc",2025-05-14T04:34:13.000Z,BTC
-longed #btc at $104.3k.,2025-05-12T00:24:15.000Z,BTC
+hold my beer we’re buying 625,000 $btc",2025-05-14T04:34:13.000Z,BTC,0.0,0.0,1.0,0.0
+longed #btc at $104.3k.,2025-05-12T00:24:15.000Z,BTC,0.0,0.0,1.0,0.0
 "when the win surprises you on 
 @empiredropcom
  
@@ -876,11 +876,11 @@ giving away $100 of $btc for this win, rt/reply to enter
 
 $30,000 leaderboard, 2 weeks left-plus we have wager milestone rewards now, what other unboxers doing that?https://btcs.gg/rewards
 
-sign up -> https://empiredrop.com/?r=btcs",2025-05-12T15:42:49.000Z,BTC
+sign up -> https://empiredrop.com/?r=btcs",2025-05-12T15:42:49.000Z,BTC,0.0,0.327,0.673,0.9438
 "$100m+ day.
 
-$btc $inj $eth $mkr $bnb",2025-05-13T20:46:17.000Z,BTC
-a lot of alts look like $btc at $31k.,2025-05-13T11:13:04.000Z,BTC
+$btc $inj $eth $mkr $bnb",2025-05-13T20:46:17.000Z,BTC,0.0,0.0,1.0,0.0
+a lot of alts look like $btc at $31k.,2025-05-13T11:13:04.000Z,BTC,0.0,0.238,0.762,0.3612
 "2013 - you missed $btc
  2014 - you missed $doge
  2015 - you missed $xrp
@@ -890,25 +890,25 @@ a lot of alts look like $btc at $31k.,2025-05-13T11:13:04.000Z,BTC
  2021 - you missed $shib
  2023 - you missed $pepe
  2024 - you missed $moodeng
- in 2025, don't miss $_____",2025-05-13T02:00:00.000Z,BTC
+ in 2025, don't miss $_____",2025-05-13T02:00:00.000Z,BTC,0.323,0.024,0.653,-0.9366
 "the crypto market tends to run in cycles. with large-scale institutional adoption, the 4-year cycle is being thrown out the window, according to 
 @smqkedqg
- : ""i will say with 100% certainty that we're moving away from the 4-year cycle."" $btc $xrp $hbar",2025-05-13T13:11:49.000Z,BTC
+ : ""i will say with 100% certainty that we're moving away from the 4-year cycle."" $btc $xrp $hbar",2025-05-13T13:11:49.000Z,BTC,0.0,0.047,0.953,0.25
 "market overview
 
 market continues its rally amid data showing that core cpi rose 0.2% month-over-month and held steady at 2.8% year-over-year, signaling easing inflationary pressures.
 
-$btc is trading above $103k, $eth has climbed above $2.6k, and $ethfi, $bome, and #moodeng",2025-05-14T06:42:10.000Z,BTC
+$btc is trading above $103k, $eth has climbed above $2.6k, and $ethfi, $bome, and #moodeng",2025-05-14T06:42:10.000Z,BTC,0.054,0.047,0.898,-0.0772
 "magical #btc trade 
-@mexc_official",2025-05-12T19:44:09.000Z,BTC
+@mexc_official",2025-05-12T19:44:09.000Z,BTC,0.0,0.0,1.0,0.0
 "this whale sold 341,783 $trump worth $4.39m at a loss $446k, then bought $1.59m worth of $launchcoin and is currently in $725.4k profit.
 
 fully recovering the loss and securing some additional profit.
 
-never stop clicking in the trenches.",2025-05-14T06:23:30.000Z,BTC
+never stop clicking in the trenches.",2025-05-14T06:23:30.000Z,BTC,0.1,0.283,0.617,0.786
 "etf update: 9.4k btc ($920.9m) were bought last week, marking four weeks of inflows.
 
-eth saw a $38.2m outflow.",2025-05-11T21:00:49.000Z,BTC
+eth saw a $38.2m outflow.",2025-05-11T21:00:49.000Z,BTC,0.0,0.0,1.0,0.0
 "the price of a bitcoin on mother’s day 
 
 2025 = $104,002
@@ -927,7 +927,7 @@ eth saw a $38.2m outflow.",2025-05-11T21:00:49.000Z,BTC
 2012 = $5
 2011 = $8
 2010 = $0
-2009 = $0",2025-05-11T17:06:45.000Z,BTC
+2009 = $0",2025-05-11T17:06:45.000Z,BTC,0.0,0.0,1.0,0.0
 "eth cost $80 on may 1st 2017
 
 if you bought $1,000 that day, you’d have 12.5 eth
@@ -938,10 +938,10 @@ btc cost $1402 on may 1st 2017
 
 if you bought $1000 that day, you’d have 0.71 btc
 
-that’s worth ~$74k right now",2025-05-13T16:43:26.000Z,BTC
+that’s worth ~$74k right now",2025-05-13T16:43:26.000Z,BTC,0.0,0.083,0.917,0.4215
 "eth/btc
 
-what if",2025-05-12T08:22:34.000Z,BTC
+what if",2025-05-12T08:22:34.000Z,BTC,0.0,0.0,1.0,0.0
 "crypto is past speculation.
 web3 isn't the future. it's now.
 
@@ -953,20 +953,20 @@ faa - hbar
 department of defense - hbar dag
 u.n. - xdc xlm algo qnt $icp hbar
 world bank - xrp xlm
-banking -",2025-05-13T09:44:00.000Z,BTC
+banking -",2025-05-13T09:44:00.000Z,BTC,0.0,0.058,0.942,0.3182
 "$eth pumped 40% last week. 
 
 bitcoin only pumped 10%.
 
-do you understand what comes next",2025-05-13T19:15:47.000Z,BTC
+do you understand what comes next",2025-05-13T19:15:47.000Z,BTC,0.0,0.0,1.0,0.0
 "empty blocks remind us there's still a long journey ahead.
 
-at portal, we're bringing satoshi's vision of a peer-to-peer cash system to life by enabling trustless cross-chain transactions, integrating btc into defi across both l1s and l2s. all without sacrificing self-custody!",2025-05-11T17:00:03.000Z,BTC
+at portal, we're bringing satoshi's vision of a peer-to-peer cash system to life by enabling trustless cross-chain transactions, integrating btc into defi across both l1s and l2s. all without sacrificing self-custody!",2025-05-11T17:00:03.000Z,BTC,0.158,0.043,0.799,-0.6476
 "$btc dominance is falling. 
 
 then $eth rides high. 
 
-then the blow off the top for alts",2025-05-13T13:20:45.000Z,BTC
+then the blow off the top for alts",2025-05-13T13:20:45.000Z,BTC,0.088,0.198,0.714,0.25
 "if i sent you $50k, which coins would you buy?
 
 1. $btc         2. $eth
@@ -976,19 +976,19 @@ then the blow off the top for alts",2025-05-13T13:20:45.000Z,BTC
 9. $pepe    10. $hbar
 11. $doge 12. you write
 
-i will read all of your comments!",2025-05-12T08:44:20.000Z,BTC
+i will read all of your comments!",2025-05-12T08:44:20.000Z,BTC,0.0,0.0,1.0,0.0
 "interdasting, hyperliquid traders just decided to slam the market long button. it's a pretty significant amount of oi too, about half a b $.
 
 maybe they're trying to front run what they believe is gonna be a green $spx futures open?
 
-$btc",2025-05-11T21:03:17.000Z,BTC
+$btc",2025-05-11T21:03:17.000Z,BTC,0.056,0.107,0.837,0.34
 "bitmart weekly most searched coins (05/05 - 05/11)
 
  $pi, $cpen, and $bgeo take the lead again, but newcomers like $vcity, $wfi, and $brett are heating up!
 
 top 10: pi, cpen, bego, vcity, wfi, brett, pepe, shib, btc, kbc
 
-which ones are on your radar this week?",2025-05-12T21:59:32.000Z,BTC
+which ones are on your radar this week?",2025-05-12T21:59:32.000Z,BTC,0.0,0.115,0.885,0.6948
 "i generated over 17m impressions on x last year. 
 
 i grew my personal acc to 25,000+ followers in 9 months.
@@ -1002,11 +1002,11 @@ i now founded
 @aigentzy
 .
 
-btc ecosystem will",2025-05-13T18:45:52.000Z,BTC
-going to work while btc is over $100k,2025-05-12T01:00:01.000Z,BTC
-tell me about a gem i never heard of,2025-05-13T23:44:28.000Z,BTC
-january daily runner vibes,2025-05-14T04:17:19.000Z,BTC
-#btc consolidation after a move up favors continuation,2025-05-13T19:42:18.000Z,BTC
+btc ecosystem will",2025-05-13T18:45:52.000Z,BTC,0.0,0.039,0.961,0.2263
+going to work while btc is over $100k,2025-05-12T01:00:01.000Z,BTC,0.0,0.0,1.0,0.0
+tell me about a gem i never heard of,2025-05-13T23:44:28.000Z,BTC,0.0,0.0,1.0,0.0
+january daily runner vibes,2025-05-14T04:17:19.000Z,BTC,0.0,0.0,1.0,0.0
+#btc consolidation after a move up favors continuation,2025-05-13T19:42:18.000Z,BTC,0.0,0.222,0.778,0.25
 "in 2024 btc etfs launched, btc went from $35k - $99k.
 
 in 2025 xrp etfs will launch. can you guess how much xrp price would be by 12/31/25?
@@ -1015,11 +1015,11 @@ a. $10+
 b. $100+
 c. $1,000+
 
-#xrp #rlusd #xrpetf",2025-05-12T01:45:10.000Z,BTC
-$eth / $btc is looking ready for a reversal. this is going to be so good for our gem #alts.,2025-05-12T09:17:20.000Z,BTC
+#xrp #rlusd #xrpetf",2025-05-12T01:45:10.000Z,BTC,0.0,0.04,0.96,0.128
+$eth / $btc is looking ready for a reversal. this is going to be so good for our gem #alts.,2025-05-12T09:17:20.000Z,BTC,0.0,0.257,0.743,0.7384
 "$btc 4h now with a higher high candle close 
 
-double negative divergence with obv worth noting as well",2025-05-14T01:22:53.000Z,BTC
+double negative divergence with obv worth noting as well",2025-05-14T01:22:53.000Z,BTC,0.163,0.176,0.661,-0.1779
 "$btc is back above $105,000 and $eth has climbed above $2,700. the market is getting hot now! 
 
 other coins worth mentioning with high performance in the last day:
@@ -1029,7 +1029,7 @@ $ray +15.5%
 $spx +14.5%
 $pepe +12.9%
 $brett 12.7%
-$pengu +11.8%",2025-05-13T19:51:20.000Z,BTC
+$pengu +11.8%",2025-05-13T19:51:20.000Z,BTC,0.0,0.051,0.949,0.2942
 "$eth needs to hold $2.5k level for more upward continuation.
 
 in march, $2.5k acted as a major resistance which resulted in new lows.
@@ -1040,9 +1040,9 @@ the good thing is that now we have some bullish catalysts.
 
 - btc dominance is showing weakness 
 
--",2025-05-12T10:54:15.000Z,BTC
-ubs bank says their clients are acquiring #btc and crypto - adoption is taking over.,2025-05-14T04:43:04.000Z,BTC
-getting ready to celebrate bitcoin launch on friday at all locations!,2025-05-14T01:45:47.000Z,bitcoin
+-",2025-05-12T10:54:15.000Z,BTC,0.085,0.087,0.829,0.0258
+ubs bank says their clients are acquiring #btc and crypto - adoption is taking over.,2025-05-14T04:43:04.000Z,BTC,0.0,0.0,1.0,0.0
+getting ready to celebrate bitcoin launch on friday at all locations!,2025-05-14T01:45:47.000Z,bitcoin,0.0,0.419,0.581,0.7574
 "i promised, if bitcoin pumps to $104k 
 i will give $10,000 btc to 5 people 
 
@@ -1055,7 +1055,7 @@ rules: like, retweet, follow
 
 proof will be posted in 24 hours  
 
-doing this for",2025-05-13T19:53:22.000Z,bitcoin
+doing this for",2025-05-13T19:53:22.000Z,bitcoin,0.047,0.173,0.78,0.749
 "bitcoin hits $100k – let's celebrate! 
 
 to mark this historic milestone, we’re giving away rewards to 100 lucky winners!
@@ -1064,23 +1064,23 @@ to mark this historic milestone, we’re giving away rewards to 100 lucky winner
  50 more will receive $10 btse bonus + up to 200 btse cash
 
 here’s how to join:
- follow",2025-05-11T10:00:00.000Z,bitcoin
+ follow",2025-05-11T10:00:00.000Z,bitcoin,0.0,0.374,0.626,0.9735
 "bitcoin fear and greed index is 70 — greed
-current price: $103,935",2025-05-11T06:30:04.000Z,bitcoin
+current price: $103,935",2025-05-11T06:30:04.000Z,bitcoin,0.489,0.0,0.511,-0.8225
 "this guy was mining 1 bitcoin every day on his $800 pc in 2011
 
-back then, each bitcoin was worth an average of $15",2025-05-11T17:30:05.000Z,bitcoin
+back then, each bitcoin was worth an average of $15",2025-05-11T17:30:05.000Z,bitcoin,0.0,0.076,0.924,0.2263
 "in 2014, dave ramsey, was tired of getting calls about bitcoin.  instead of exploring the topic, he berated his callers.
 
 “let’s add all you bitcoin people to the mix:  you’re stupid, you’re gonna lose your money.”
 
-the price of bitcoin was $555.",2025-05-13T22:14:13.000Z,bitcoin
+the price of bitcoin was $555.",2025-05-13T22:14:13.000Z,bitcoin,0.188,0.0,0.812,-0.8402
 "a pretty normal consolidation on #bitcoin before the breakout above the all-time high. 
 
 in the meantime; #altcoins are significantly breaking out and continuing their momentum.
 
-the signs of a bull market.",2025-05-14T06:55:25.000Z,bitcoin
+the signs of a bull market.",2025-05-14T06:55:25.000Z,bitcoin,0.0,0.096,0.904,0.4939
 "good morning future crypto millionaires 
 
-rise and shine",2025-05-14T06:29:35.000Z,crypto
-"first 1,000 to like & retweet gets an iphone 16. must be a follower  24 hours to claim…",2025-05-13T22:16:12.000Z,crypto
+rise and shine",2025-05-14T06:29:35.000Z,crypto,0.0,0.293,0.707,0.4404
+"first 1,000 to like & retweet gets an iphone 16. must be a follower  24 hours to claim…",2025-05-13T22:16:12.000Z,crypto,0.0,0.128,0.872,0.3612
