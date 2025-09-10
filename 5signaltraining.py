@@ -234,6 +234,3 @@ backtested_df.to_excel('backtested_results.xlsx', index=False)
 # plt.xticks(rotation=45)
 # plt.tight_layout()  # Automatically adjust layout to fit everything
 # plt.show()
-
-
-
